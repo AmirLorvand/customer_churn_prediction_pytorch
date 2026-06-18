@@ -68,13 +68,10 @@ The `data/` folder is intentionally ignored by Git to avoid uploading external d
 
 ```text
 .
-├── notebooks/
-│   └── customer_churn_prediction_pytorch.ipynb
+├── customer_churn_prediction_pytorch.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-```
-
 ---
 
 ## How to Run
@@ -95,9 +92,7 @@ pip install -r requirements.txt
 
 6. Open the notebook:
 
-```text
-notebooks/customer_churn_prediction_pytorch.ipynb
-```
+customer_churn_prediction_pytorch.ipynb
 
 7. Run the notebook cells from top to bottom.
 
